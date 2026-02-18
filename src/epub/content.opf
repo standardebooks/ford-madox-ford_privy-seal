@@ -66,10 +66,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Ford_Madox_Ford</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79045085</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">Corneille de Lyon</dc:contributor>
-		<meta property="file-as" refines="#artist">Lyon, Corneille de</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Corneille_de_Lyon</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n92089140</meta>
+		<dc:contributor id="artist">Hans Holbein the Younger</dc:contributor>
+		<meta property="file-as" refines="#artist">Holbein the Younger, Hans</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n81117179</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Sankar Viswanathan</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Sankar, Viswanathan</meta>
