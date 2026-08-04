@@ -50,7 +50,7 @@
 		<meta id="collection-1" property="belongs-to-collection">The Fifth Queen</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<dc:abstract>A scholar becomes embroiled in the personal and political intrigues of the Tudor court.</dc:abstract>
+		<meta property="schema:abstract">A scholar becomes embroiled in the personal and political intrigues of the Tudor court.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Privy Seal: His Last Venture&lt;/i&gt; follows the journey of the once-innocent Katherine Howard as she comes to terms with her new position as mistress of King Henry VIII. Many of the events are seen through the eyes of the scholar Magister Udal as he navigates the dangerous personal and political intrigues of the court. Udal quickly finds his own safety is not assured as his fortunes become entangled with the rise of Katherine and the fall of Thomas Cromwell.&lt;/p&gt;
 		</dc:description>
