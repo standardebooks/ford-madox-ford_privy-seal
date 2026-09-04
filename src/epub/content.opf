@@ -40,10 +40,10 @@
 		<dc:subject id="subject-1">Biographical fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85014149</meta>
-		<dc:subject id="subject-2">Catharine Howard, Queen, consort of Henry VIII, King of England, -1542 -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Catharine Howard, Queen, consort of Henry VIII, King of England, -1542--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
-		<dc:subject id="subject-3">Queens -- Great Britain -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Queens--Great Britain--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008110319</meta>
 		<meta property="schema:genre">Fiction</meta>
